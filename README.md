@@ -9,7 +9,7 @@ description: Western Africa
 
 <FlatUiTable
   data={{
-    url: 'west_af.csv'
+    url: 'west_afr.csv'
   }}
 />
 
